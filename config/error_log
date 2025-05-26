@@ -1,0 +1,4 @@
+[03-May-2025 20:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appwebdemo/carallies.appwebdemo.pro/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appwebdemo/carallies.appwebdemo.pro/config/app.php on line 19

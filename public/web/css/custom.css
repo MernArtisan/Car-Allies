@@ -1,0 +1,173 @@
+
+.slide-item-img.one-slide-area img {
+    width: 80%;
+}
+
+.slide-item-img.one-slide-area span.call-to-circle-1 {
+    display: none !important;
+  
+}
+body {
+    background: #03002e;
+}
+
+h1.section-title, p,h2,h4,h3,h5,h6 {
+    color: #fff;
+}
+
+.section-bg-1 {
+    background: #03002e;
+}
+
+.why-choose-us-feature-brief a {
+    color: #fff;
+}
+
+.before-bg-1:before {
+    background: #03002e;
+}
+
+.ltn__call-to-action-area.call-to-action-2.pt-20.pb-20 {
+    background: #03002e;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.ltn__call-to-action-area.call-to-action-2.pt-20.pb-20 h2 {
+    color: #fff;
+}
+
+.ltn__blog-area.bg-image-top.pt-115 a {
+    color: #000;
+}
+.ltn__testimonial-item-5 .ltn__quote-icon {
+    color: #ffffff47;
+}
+
+.theme-btn-1 {
+    background: #000;
+    border: 1px solid;
+}
+
+.special-link a {
+    background: #000;
+    border: 1px solid;
+}
+
+.ltn__tab-menu a {
+    color: #fff;
+}
+.service-item-brief a, .service-item-brief h3, .service-item-brief p {
+    color: #000;
+}
+
+.about-us-img-info-inner h1 span {
+    color: #e53e29;
+    font-size: 70px;
+}
+
+.theme-btn-3 {
+    color: #fff;
+}
+
+ltn__feature-area h3.animated.fadeIn a {
+    color: #000 !important;
+}
+
+.ltn__feature-area h3 a {
+    color: #000;
+}
+
+.ltn__feature-area p {
+    color: #000;
+}
+.ltn__menu-widget > ul li a {
+    color: #fff;
+}
+
+.price_slider_amount > input[type="text"], .price_slider_amount > input[type="submit"] {
+    color: #fff;
+}
+.ltn__grid-list-tab-menu a i {
+    color: #fff;
+}
+
+.ltn__grid-list-tab-menu a.active i {
+    color: #e53e29;
+}
+
+
+.ltn__pagination ul li a {
+    color: #fff;
+
+}
+
+.ltn__product-details-menu-1 ul li strong,.ltn__product-details-menu-1 ul li {
+    color: #fff;
+}
+
+.ltn__product-details-menu-3 li {
+    color: #fff;
+}
+
+.ltn__social-media {
+    color: #fff;
+}
+
+.ltn__shop-details-small-img.slick-arrow-2 .slick-arrow  i {
+    color: #fff;
+}
+
+.ltn__shop-details-tab-inner-2 .ltn__shop-details-tab-menu .nav a {
+    color: #fff;
+}
+
+label.checkbox-inline {
+    color: #fff;
+}
+
+
+
+.modal-product-info  p.added-cart {
+    color: #000;
+}
+
+.modal-product-info h5 a {
+    color: #000;
+}
+.liton__shoping-cart-area td.cart-product-price {
+    color: #fff;
+}
+
+.liton__shoping-cart-area td.cart-product-subtotal {
+    color: #fff;
+}
+.ltn__checkout-single-content h5 {
+    background: #000;
+}
+
+.ltn__checkout-payment-method .card {
+    background: #c73a29;
+}
+.modal-product-info h3 {
+    color: #000;
+}
+
+.modal-body .ltn__product-details-menu-3 ul a {
+    color: #000;
+}
+
+.modal-body .ltn__social-media {
+    color: #000;
+}
+
+.modal-body .modal-product-meta > ul li strong {
+    color: #000;
+}
+
+.modal-body .modal-product-meta > ul li {
+    color: #000;
+}
+.go-to-btn a {
+    color: #fff;
+}
