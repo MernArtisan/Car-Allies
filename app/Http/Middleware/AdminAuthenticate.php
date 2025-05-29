@@ -17,7 +17,6 @@ class AdminAuthenticate
         }
 
         if (Auth::user()->hasRole('user')) {
-            // Redirect to homepage or user dashboard to break redirect loop
             return redirect()->route('home.index')->with('error', 'Unauthorized access.');
         }
 
