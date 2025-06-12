@@ -46,6 +46,7 @@ class LoginController extends Controller
                 return redirect()->route('admin.dashboard')->with('success', 'Login Successful, ' . $user->name);
             }
             return redirect()->intended('/')->with('success', 'Login Successful, ' . Auth::user()->name);
+            return redirect()->previous();
         }
 
         return back()->with('error', 'Invalid credentials.');

@@ -35,7 +35,7 @@ class AppServiceProvider extends ServiceProvider
         $cms_content = collect();
 
         if (Schema::hasTable('contents')) {
-            $cms_content = Content::all(); // ✅ No explode here
+            $cms_content = Content::all(); 
         }
 
         View::share('cms_content', $cms_content);
